@@ -1,7 +1,7 @@
 # dutchnewsalexa
 Dutch news alexa skill
 
-This skill allows Alexa to read headlines and content from dutchnews.nl
+This skill allows Alexa to read headlines and content from dutchnews.nl.
 It uses the rss feed to display headlines and scrapes the web page content for detailed reports.
 
 It is developed in Python and should be deployed as an Amazon Lambda.
